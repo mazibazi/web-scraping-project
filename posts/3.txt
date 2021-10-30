@@ -1,0 +1,5 @@
+job possition: Profesionales Data Scientists 
+company name: Deloitte
+location: Sevilla, Sevilla provincia
+Job discription: R (machine learning algorithms, linear and non-linear modeling, classical statistical tests, time-series analysis, classification and clustering).
+date: hace 23 días

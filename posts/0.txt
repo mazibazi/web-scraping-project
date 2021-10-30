@@ -1,0 +1,5 @@
+job possition: Research Scientist, Applied Machine Learning 
+company name: Bristol Myers Squibb
+location: Sevilla, Sevilla provincia
+Job discription: Collaborate with computational and experimental scientists to derive and validate insights of therapeutic relevance.
+date: hace 30+ días
