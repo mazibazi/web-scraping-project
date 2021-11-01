@@ -1,5 +1,0 @@
-job possition: Data Scientist (m/w/d) 
-company name: Fossil Group, Inc.
-location: España
-Job discription: Very good experience in SQL and data manipulation.
-date: hace 29 días
