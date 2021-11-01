@@ -1,5 +1,0 @@
-job possition: Senior Data Scientist (m/f/d) 
-company name: Fossil Group, Inc.
-location: España
-Job discription: Strong working experience in SQL and data manipulation.
-date: hace 29 días
