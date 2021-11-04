@@ -12,7 +12,7 @@ counter = 0
 row = 0
 workbook = xlsxwriter.Workbook('truecarSite/cars.xlsx')
 worksheet = workbook.add_worksheet()
-for page in range(1, 334):
+for page in range(1, 2):
     updateUrl = url + str(page)
 
     r = requests.get(updateUrl)
@@ -44,26 +44,13 @@ for page in range(1, 334):
         carOwner = (car.find_all("div", class_="vehicle-card-location font-size-1 margin-top-1"))[-1].text.split(" ")[2]
         carUsage = (car.find_all("div", class_="vehicle-card-location font-size-1 margin-top-1"))[-1].text.split(" ")[
             -2]
+        carLink = car.find_all("a", class_="linkable order-2 vehicle-card-overlay")
 
         currentTime = currentTimeDate.strftime("%H:%M:%S")
         currentDay = currentTimeDate.strftime("%Y,%m,%d")
 
         # print(counter, carName, carAge, carGear, carPrice, carMile, carLocationCity,
         #      carLocationState, carColorEx, carColorIn, carAccident, carOwner, carUsage)
-        print(counter, carName, carPrice, currentDay, currentTime)
-        worksheet.write(row, col, carName)
-        worksheet.write(row, col + 1, carAge)
-        worksheet.write(row, col + 2, carGear)
-        worksheet.write(row, col + 3, carPrice)
-        worksheet.write(row, col + 4, carMile)
-        worksheet.write(row, col + 5, carLocationCity)
-        worksheet.write(row, col + 6, carLocationState)
-        worksheet.write(row, col + 7, carColorEx)
-        worksheet.write(row, col + 8, carColorIn)
-        worksheet.write(row, col + 9, carAccident)
-        worksheet.write(row, col + 10, carOwner)
-        worksheet.write(row, col + 11, carUsage)
+        print(counter, carName, carPrice, currentDay, currentTime, carLink)
 
-        row += 1
 
-workbook.close()

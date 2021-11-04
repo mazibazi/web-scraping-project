@@ -10,11 +10,11 @@ database = 'truecar'
 connectionMySql = create_engine('mysql+pymysql://' + user + ':' + password + '@' +
                                 hostName + ':' + str(port) + '/' + database, echo=False)
 
-df = pd.read_csv('./carReported.csv')
+df = pd.read_csv('./carReportedFinal.csv')
 
 print(df.columns)
 
-df.drop(df.columns[0], axis=1, inplace=True)
+
 
 try:
     df.to_sql(name='cardetail', con=connectionMySql, if_exists='replace', index=False)

@@ -26,7 +26,9 @@ def findCar(url, start, finish):
             carPrice = car.find("div",
                                 class_="padding-left-3 padding-left-lg-2 vehicle-card-bottom-pricing-secondary vehicle-card-bottom-max-50").text
             carPrice = carPrice.replace("$", "")
+            carPrice = carPrice.replace(",", "")
             carMile = car.find("div", class_="d-flex w-100 justify-content-between").text.split(" ")[0]
+            carMile = carMile.replace(",", "")
             carLocationCity = car.find("div", class_="vehicle-card-location font-size-1 margin-top-1").text.split(",")[
                 0]
             carLocationState = car.find("div", class_="vehicle-card-location font-size-1 margin-top-1").text.split(",")[
@@ -81,7 +83,7 @@ if __name__ == '__main__':
             print(dfStore.tail())
             time.sleep(time_wait * 60)
         else:
-            dfStore.to_csv("./carReportedFinal.csv")
+            dfStore.to_csv("./carReportedFinalNew.csv")
             break
 
     print(dfStore.head())
