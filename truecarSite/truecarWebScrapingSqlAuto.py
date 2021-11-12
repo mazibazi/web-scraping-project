@@ -2,7 +2,6 @@ import time
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
-import pandas as pd
 import mysql.connector
 from mysql.connector import errorcode
 import pandas as pd
@@ -104,7 +103,7 @@ if __name__ == '__main__':
     dfStore = pd.DataFrame(columns=columnName)
     url = "https://www.truecar.com/used-cars-for-sale/listings/?page="
     firstPage = 1
-    lastPage = 3  # 334
+    lastPage = 334
     timeCounter = 0
     connectionMySql = create_engine('mysql+pymysql://' + user + ':' + password + '@' +
                                     hostName + ':' + str(port) + '/' + database, echo=False)
@@ -125,7 +124,7 @@ if __name__ == '__main__':
                 dfStore.to_sql(name='cardetail', con=connectionMySql, if_exists='replace', index=False)
             except:
                 print("Please Check you connection")
-            time.sleep(time_wait)  # 60*24
+            time.sleep(time_wait * 60)  # 60*24
         else:
             # dfStore.to_csv("./carReportedFinalNew.csv")
             try:
