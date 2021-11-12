@@ -1,0 +1,274 @@
+,carName,carAge,carGear,carPrice,carMile,carLocationCity,carLocationState,carColorEx,carColorIn,carAccident,carOwner,carUsage
+0,Toyota Tundra,2020,SR5 CrewMax 5.5' Bed 5.7L 4WD,"$46,996","25,722",San Antonio, TX,Gray,Gray,No accidents,1,Personal
+1,Chevrolet Malibu,2019,LS with 1LS,"$17,399","32,383",Norco, CA,Silver,Black,No accidents,3,Fleet
+2,Toyota Land Cruiser,2002,4WD,"$13,885","250,979",Wilmington, CA,Silver,Unknown,No accidents,3,Personal
+3,Nissan Rogue,2018,SV AWD,"$18,992","67,425",Wappingers Falls, NY,White,Black,No accidents,1,Personal
+4,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$33,670","33,988",Blackfoot, ID,White,Gray,No accidents,1,Personal
+5,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$34,142","47,922",Pikeville, KY,Black,Black,No accidents,4,Personal
+6,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$37,782","28,833",Colorado Springs, CO,Black,Unknown,No accidents,1,Fleet
+7,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$32,500","20,152",Kansas City, MO,White,Gray,No accidents,1,Personal
+8,Nissan Versa,2019,SV Sedan CVT,"$13,410","54,055",Orlando, FL,Red,Black,No accidents,1,Fleet
+9,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$25,355","154,670",Dublin, GA,White,Gray,No accidents,1,Personal
+10,Ford F-150,2019,XLT SuperCrew 5.5' Box 4WD,"$27,900","143,930",Albuquerque, NM,White,Unknown,No accidents,1,Personal
+11,GMC Sierra 1500,2018,SLT Crew Cab Short Box 4WD,"$42,999","34,421",San Angelo, TX,White,Black,No accidents,3,Personal
+12,Chevrolet Malibu,2018,LT with 1LT,"$17,995","47,430",Fresno, CA,Silver,Black,No accidents,2,Fleet
+13,Toyota Corolla,2020,LE CVT,"$21,975","20,137",Jacksonville, FL,White,Beige,No accidents,2,Personal
+14,Ford Fusion,2016,SE FWD,"$12,700","81,492",Lubbock, TX,Black,Black,No accidents,2,Fleet
+15,Toyota Corolla,2020,LE CVT,"$19,935","35,454",Miami, FL,White,Black,No accidents,1,Personal
+16,Mercedes-Benz C-Class,2018,C 300 Sedan RWD,"$32,591","31,402",Bakersfield, CA,White,Black,No accidents,1,Personal
+17,Mercedes-Benz C-Class,2018,C 300 Sedan RWD,"$31,617","20,001",Sacramento, CA,White,Beige,1 accident,2,Personal
+18,Ford F-150,2019,XLT SuperCrew 5.5' Box 4WD,"$30,500","45,891",Lindon, UT,Silver,Gray,No accidents,1,Personal
+19,Chevrolet Silverado 1500,2019,LTZ Crew Cab Short Box 4WD,"$45,000","23,275",Cincinnati, OH,Black,Black,No accidents,1,Personal
+20,Mercedes-Benz C-Class,2018,C 300 Sedan RWD,"$31,650","27,626",Fremont, CA,White,Black,1 accident,1,Personal
+21,Ford F-150,2018,XL SuperCrew 5.5' Box 2WD,"$29,495","37,865",Tomball, TX,White,Unknown,No accidents,2,Personal
+22,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$27,824","184,570",Mooresville, IN,Black,Gray,No accidents,1,Personal
+23,Nissan Sentra,2019,SV CVT,"$12,850","40,000",Los Angeles, CA,Gray,Black,2 accidents,1,Fleet
+24,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$31,660","66,917",Denton, TX,Silver,Gray,1 accident,2,Personal
+25,Ford F-150,2014,XLT SuperCrew 5.5' Box RWD,"$10,985","246,478",Fort Myers, FL,White,Gray,1 accident,1,Personal
+26,Toyota Tacoma,2019,TRD Pro Double Cab 5' Bed V6 4WD Manual,"$40,457","26,582",Fort Pierce, FL,White,Unknown,No accidents,1,Personal
+27,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$27,757","125,661",Springfield, VA,White,Black,2 accidents,1,Personal
+28,Ford Fusion,2016,SE FWD,"$9,988","98,503",Van Nuys, CA,Black,Black,1 accident,5,Fleet
+29,Ford Fusion,2016,SE FWD,"$9,995","117,354",Rancho Cordova, CA,White,Black,No accidents,3,Fleet
+30,Jeep Compass,2018,Latitude 4WD,"$18,900","83,954",Harrisburg, PA,Black,Black,No accidents,1,Personal
+31,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$34,495","41,895",El Paso, TX,Silver,Unknown,No accidents,1,Personal
+32,Toyota Camry,2018,SE I4 Automatic,"$17,790","55,308",Fort Lauderdale, FL,White,Unknown,No accidents,2,Personal
+33,Toyota Corolla,2020,LE CVT,"$18,425","52,265",Live Oak, TX,White,Black,No accidents,1,Personal
+34,Ford Super Duty F-250,2017,King Ranch Crew Cab 6.75' Bed 4WD,"$44,461","127,131",Columbus, TX,White,Brown,No accidents,2,Personal
+35,Mercedes-Benz C-Class,2018,C 300 Sedan RWD,"$28,441","34,610",Citrus Heights, CA,White,Unknown,No accidents,3,Personal
+36,Jeep Grand Cherokee,2018,Laredo 4WD,"$19,998","100,215",Cortlandt Manor, NY,White,Black,No accidents,1,Personal
+37,Nissan Altima,2016,2.5 S,"$13,495","84,909",Fresno, CA,Black,Black,No accidents,2,Personal
+38,Mercedes-Benz C-Class,2018,C 300 Sedan RWD,"$31,492","33,562",Fairfield, CA,White,Black,No accidents,1,Personal
+39,Kia Optima,2019,LX,"$18,495","49,184",Fresno, CA,Silver,Black,No accidents,1,Personal
+40,Chevrolet Malibu,2018,LT with 1LT,"$14,400","52,800",Philadelphia, PA,White,Black,1 accident,3,Fleet
+41,Toyota Corolla,2020,LE CVT,"$19,999","38,022",San Diego, CA,Silver,Black,No accidents,2,Personal
+42,Nissan Sentra,2019,S CVT,"$11,985","83,384",Duluth, GA,Black,Black,No accidents,1,Fleet
+43,Toyota Corolla,2020,LE CVT,"$17,300","43,046",Houston, TX,White,Black,No accidents,1,Personal
+44,Ford F-150,2018,Lariat SuperCrew 5.5' Box 4WD,"$41,995","36,833",Billings, MT,White,Unknown,No accidents,1,Personal
+45,Ford F-150,2017,Lariat SuperCrew 5.5' Box RWD,"$23,377","218,568",Fayetteville, NC,White,Beige,No accidents,1,Personal
+46,Nissan Sentra,2018,SV CVT,"$10,995","108,158",San Diego, CA,Silver,Black,No accidents,1,Fleet
+47,Ram 1500,2019,"Big Horn/Lone Star Crew Cab 5'7"" Box 4WD","$36,995","18,496",Sterling Heights, MI,Black,Black,No accidents,1,Personal
+48,Chrysler 200,2015,Limited FWD,"$11,995","74,999",Fresno, CA,Gray,Black,1 accident,2,Fleet
+49,Ford Super Duty F-250,2019,XL 4WD Crew Cab 6.75' Box,"$37,995","84,166",Addison, TX,White,Unknown,No accidents,1,Personal
+50,Mercedes-Benz C-Class,2018,C 300 Sedan RWD,"$33,888","34,065",Temecula, CA,White,Black,No accidents,2,Personal
+51,Chevrolet Silverado 1500,2018,LT Crew Cab Short Box 4WD,"$24,999","104,319",Smyrna, GA,White,Brown,No accidents,2,Fleet
+52,Nissan Rogue,2016,S FWD,"$12,000","80,599",Houston, TX,Black,Black,No accidents,2,Personal
+53,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$34,478","40,732",Hicksville, OH,Black,Gray,No accidents,2,Personal
+54,Chevrolet Malibu,2018,LT with 1LT,"$19,398","12,345",Tempe, AZ,White,Black,No accidents,1,Personal
+55,Ford F-150,2018,Lariat SuperCrew 5.5' Box 4WD,"$36,969","85,956",Stonecrest, GA,Gray,Black,No accidents,4,Fleet
+56,Ford F-150,2018,XL SuperCrew 5.5' Box 4WD,"$31,500","52,338",Norwalk, OH,Black,Black,No accidents,2,Personal
+57,Toyota Corolla,2020,LE CVT,"$18,499","51,479",Miami, FL,Black,Black,1 accident,1,Personal
+58,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$30,995","102,571",Culpeper, VA,White,Black,No accidents,1,Personal
+59,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$30,295","79,921",Little Rock, AR,Silver,Beige,No accidents,2,Personal
+60,Volkswagen Jetta,2019,S Automatic,"$15,995","33,000",Euless, TX,White,Black,No accidents,1,Personal
+61,Ford F-150,2017,XLT SuperCrew 5.5' Box 4WD,"$26,990","113,243",Grand Rapids, MI,White,Unknown,No accidents,Personal,Personal
+62,Nissan Sentra,2019,S CVT,"$13,490","57,954",New Smyrna, FL,Silver,Black,1 accident,2,Fleet
+63,Toyota RAV4,2019,LE FWD,"$25,295","41,119",El Paso, TX,White,Unknown,No accidents,2,Personal
+64,Toyota Corolla,2020,LE CVT,"$20,499","44,100",San Diego, CA,White,Black,No accidents,2,Personal
+65,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$33,000","62,672",Indianola, IA,Silver,Gray,No accidents,1,Personal
+66,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$24,990","153,219",Tomball, TX,White,Gray,1 accident,1,Personal
+67,Toyota Corolla,2019,LE CVT,"$12,999","102,003",Jacksonville, FL,Black,Unknown,2 accidents,2,Fleet
+68,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$33,998","53,166",Winston-Salem, NC,Black,Gray,No accidents,2,Personal
+69,Mercedes-Benz C-Class,2018,C 300 Sedan RWD,"$28,990","43,166",Carlsbad, CA,White,Black,No accidents,2,Personal
+70,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$37,980","33,804",Michigan Center, MI,White,Beige,No accidents,Personal,Personal
+71,Ford Explorer,2018,XLT 4WD,"$27,995","28,600",Lumberton, NJ,Gray,Black,1 accident,1,Personal
+72,Ford F-150,2018,XLT SuperCrew 5.5' Box 2WD,"$27,800","107,973",Charlotte, NC,White,Unknown,No accidents,2,Fleet
+73,Toyota RAV4,2018,XLE FWD,"$22,941","33,633",Ocala, FL,Silver,Black,1 accident,1,Personal
+74,Nissan Rogue,2018,SV AWD,"$22,992","24,969",Wappingers Falls, NY,Gray,Black,No accidents,1,Personal
+75,Jeep Cherokee,2019,Limited 4WD,"$27,995","19,027",Sussex, NJ,Gray,Black,No accidents,2,Personal
+76,Ford F-150,2018,XLT SuperCab 6.5' Box 4WD,"$19,800","174,183",Deland, FL,White,Gray,No accidents,2,Fleet
+77,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$35,456","38,371",Nevada, MO,Red,Black,No accidents,2,Fleet
+78,Jeep Compass,2018,Latitude 4WD,"$19,899","47,486",Canandaigua, NY,Gray,Black,No accidents,2,Personal
+79,Nissan Altima,2015,2.5 S,"$11,995","92,366",Tempe, AZ,White,Black,1 accident,2,Fleet
+80,Nissan Sentra,2019,S CVT,"$16,500","32,968",Costa Mesa, CA,Gray,Black,No accidents,1,Personal
+81,Chevrolet Malibu,2019,LT with 1LT,"$13,500","121,423",Jacksonville, FL,Black,Black,1 accident,1,Personal
+82,Mercedes-Benz C-Class,2018,C 300 Sedan RWD,"$29,995","22,033",San Francisco, CA,White,Black,No accidents,1,Personal
+83,Nissan Altima,2019,S FWD,"$20,495","32,946",Fresno, CA,Gray,Black,No accidents,1,Personal
+84,Toyota Tacoma,2017,TRD Sport Double Cab 5' Bed V6 4WD Manual,"$34,928","33,115",Roseville, CA,Black,Gray,No accidents,2,Personal
+85,Toyota Corolla,2020,LE CVT,"$20,995","43,801",Starke, FL,Gray,Unknown,No accidents,3,Personal
+86,Buick Encore,2019,Preferred FWD,"$21,986","12,211",Sebring, FL,Gray,Black,No accidents,1,Personal
+87,Chevrolet Malibu,2018,LT with 1LT,"$19,000","60,716",San Diego, CA,White,Black,No accidents,2,Personal
+88,Jeep Cherokee,2019,Limited 4WD,"$27,599","35,000",Carmel, NY,White,Black,1 accident,1,Personal
+89,Ford F-150,2018,King Ranch SuperCrew 5.5' Box 4WD,"$39,991","56,369",Dallas, TX,Gray,Gray,No accidents,1,Personal
+90,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$35,964","45,656",Cornelius, NC,Gray,Unknown,No accidents,2,Personal
+91,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$25,900","125,276",Lewisville, TX,White,Unknown,No accidents,1,Personal
+92,Kia Soul,2020,LX IVT,"$17,995","28,205",Daytona Beach, FL,Black,Black,No accidents,1,Personal
+93,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$32,277","90,055",Missoula, MT,White,Unknown,No accidents,1,Personal
+94,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$35,995","53,363",Rugby, ND,White,Unknown,No accidents,3,Personal
+95,Nissan Sentra,2018,SV CVT,"$9,999","79,850",Inwood, NY,Gray,Black,No accidents,1,Personal
+96,Buick Encore,2019,Preferred FWD,"$15,500","56,973",Houston, TX,Silver,Gray,1 accident,3,Fleet
+97,Chevrolet Malibu,2018,LT with 1LT,"$20,000","33,342",San Diego, CA,White,Black,No accidents,2,Personal
+98,Ford F-150,2019,XLT SuperCrew 5.5' Box 4WD,"$30,000","97,484",Davenport, IA,White,Gray,No accidents,1,Personal
+99,GMC Terrain,2018,SLE FWD,"$20,000","40,383",Temple, TX,Gray,Black,No accidents,1,Personal
+100,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$37,341","39,012",Fort Wayne, IN,White,Black,No accidents,1,Personal
+101,Honda Civic,2012,LX Sedan Automatic,"$10,499","95,302",El Cajon, CA,Black,Gray,1 accident,2,Personal
+102,Mercedes-Benz C-Class,2018,C 300 Sedan RWD,"$29,992","52,841",Fairfield, CA,White,Black,No accidents,1,Personal
+103,Ford F-150,2019,XLT SuperCrew 5.5' Box 4WD,"$39,898","21,387",Wood River, IL,White,Gray,No accidents,1,Personal
+104,Ford F-150,2018,XLT SuperCrew 5.5' Box 2WD,"$22,995","158,541",Grand Prairie, TX,White,Unknown,No accidents,1,Fleet
+105,Hyundai Elantra,2019,SEL 2.0L Automatic,"$14,999","63,133",Ft. Myers, FL,Blue,Gray,No accidents,2,Personal
+106,Ram 1500,2019,"Big Horn/Lone Star Crew Cab 5'7"" Box 4WD","$37,676","47,420",Fort Wayne, IN,White,Black,No accidents,2,Personal
+107,Toyota Corolla,2020,LE CVT,"$19,000","14,287",Boerne, TX,White,Black,No accidents,1,Personal
+108,Ford F-150,2020,XLT SuperCrew 5.5' Box 4WD,"$39,093","23,647",Vancouver, WA,Black,Unknown,No accidents,1,Personal
+109,Ram 1500,2019,"Big Horn/Lone Star Crew Cab 5'7"" Box 4WD","$34,554","42,796",London, OH,Gray,Black,1 accident,1,Personal
+110,Ford F-150,2014,XLT Regular Cab 8.0' Box RWD,"$15,751","110,056",Ocala, FL,White,Gray,No accidents,2,Personal
+111,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$38,995","28,178",Suffolk, VA,White,Gray,No accidents,1,Personal
+112,Nissan Sentra,2019,SV CVT,"$13,850","92,244",Costa Mesa, CA,White,Black,No accidents,1,Personal
+113,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$32,990","52,057",Fairfield, CA,Silver,Unknown,No accidents,2,Personal
+114,Chevrolet Cruze,2018,LS with 1SB Sedan Automatic,"$9,998","150,514",Lubbock, TX,Black,Black,No accidents,1,Personal
+115,Nissan Sentra,2019,S CVT,"$11,998","98,435",Roswell, GA,White,Black,No accidents,2,Personal
+116,Ford F-150,2016,XLT SuperCrew 5.5' Box 4WD,"$30,977","63,776",Columbus, GA,Black,Unknown,No accidents,1,Personal
+117,Chevrolet Malibu,2018,LT with 1LT,"$17,900","28,284",Delray Beach, FL,White,Black,No accidents,1,Personal
+118,BMW X1,2018,sDrive28i FWD,"$22,999","44,778",La Mesa, CA,White,Brown,No accidents,1,Personal
+119,Nissan Altima,2016,2.5 S,"$13,495","78,544",Fresno, CA,Blue,Black,1 accident,2,Fleet
+120,Mercedes-Benz C-Class,2018,C 300 Sedan RWD,"$29,998","22,483",Santa Rosa, CA,White,Black,No accidents,2,Personal
+121,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$35,495","26,824",Quakertown, PA,Black,Black,No accidents,1,Personal
+122,Kia Forte,2017,LX Sedan Automatic,"$9,994","91,472",Pasadena, TX,Black,Gray,No accidents,1,Personal
+123,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$35,070","37,264",Vancouver, WA,Blue,Unknown,No accidents,1,Personal
+124,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$33,136","62,813",Parkersburg, WV,Silver,Gray,No accidents,1,Personal
+125,Ford F-150,2018,XL SuperCrew 6.5' Box 4WD,"$25,995","110,230",Austin, TX,White,Gray,No accidents,1,Fleet
+126,Ram 1500,2019,"Big Horn/Lone Star Crew Cab 5'7"" Box 4WD","$38,995","30,667",Decatur, IN,Black,Black,No accidents,1,Personal
+127,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$33,184","53,356",Fort Wayne, IN,Black,Gray,No accidents,1,Fleet
+128,Nissan Rogue,2018,SV AWD,"$14,999","194,905",New Richmond, WI,White,Black,No accidents,2,Personal
+129,Chevrolet Malibu,2018,LT with 1LT,"$20,994","21,792",Easton, PA,Black,Black,No accidents,1,Personal
+130,Ford F-150,2018,Lariat SuperCrew 5.5' Box 2WD,"$35,179","14,273",Thatcher, AZ,White,Unknown,No accidents,1,Personal
+131,Buick Encore,2019,Essence FWD,"$19,998","22,568",Daytona Beach, FL,White,Black,No accidents,1,Personal
+132,Chevrolet Malibu,2020,LT,"$22,992","48,648",Fayetteville, NC,Silver,Black,1 accident,1,Fleet
+133,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$25,795","130,996",Raytown, MO,Black,Gray,2 accidents,1,Fleet
+134,Ford F-150,2014,XL SuperCrew 5.5' Box 4WD,"$19,995","103,834",Ventura, CA,White,Black,No accidents,1,Fleet
+135,Chevrolet Equinox,2018,LT with 1LT FWD,"$19,755","41,002",Lima, OH,Blue,Black,2 accidents,1,Personal
+136,Ford F-150,2019,XLT SuperCrew 5.5' Box 4WD,"$38,576","31,869",Michigan Center, MI,White,Beige,No accidents,Personal,Personal
+137,Jeep Cherokee,2019,Latitude FWD,"$16,900","74,564",El Paso, TX,Black,Black,No accidents,2,Fleet
+138,Ford F-150,2019,XLT SuperCrew 5.5' Box 4WD,"$31,590","90,628",Nashville, TN,White,Gray,No accidents,2,Personal
+139,Kia Optima,2016,LX,"$9,500","108,449",Houston, TX,Black,Black,No accidents,3,Fleet
+140,Ram 1500,2019,"Big Horn/Lone Star Crew Cab 5'7"" Box 4WD","$40,888","23,150",Battle Creek, MI,Blue,Black,No accidents,1,Personal
+141,Chevrolet Silverado 1500,2018,LT Crew Cab Short Box 4WD,"$26,000","107,281",Cincinnati, OH,Red,Gray,No accidents,2,Fleet
+142,Jeep Cherokee,2019,Limited 4WD,"$28,033","49,238",Glen Mills, PA,Black,Black,No accidents,2,Personal
+143,Kia Forte,2019,LXS IVT,"$17,799","21,027",Gainesville, FL,White,Black,No accidents,3,Personal
+144,Ford F-150,2019,Platinum SuperCrew 5.5' Box 4WD,"$57,999","41,237",Oroville, CA,Gray,Black,No accidents,2,Personal
+145,Ford Super Duty F-250,2019,XLT 4WD Crew Cab 6.75' Box,"$46,998","1,883",Ukiah, CA,Black,Unknown,1 accident,1,Fleet
+146,Toyota Corolla,2020,LE CVT,"$21,847","13,184",Milton, FL,Blue,Black,No accidents,1,Personal
+147,Ford F-150,2019,XLT SuperCrew 5.5' Box 4WD,"$37,995","32,076",Burlington, WA,White,Gray,No accidents,2,Personal
+148,Nissan Rogue,2018,SV AWD,"$21,992","36,035",Wappingers Falls, NY,Black,Black,1 accident,1,Personal
+149,Ford Super Duty F-250,2019,Lariat 4WD Crew Cab 6.75' Box,"$45,870","132,893",Frisco, TX,White,Black,No accidents,1,Personal
+150,Ford F-150,2019,XLT SuperCrew 5.5' Box 4WD,"$34,995","37,560",Delaware, OH,White,Gray,No accidents,1,Personal
+151,Volkswagen Jetta,2019,S Automatic,"$17,638","33,749",Pleasanton, CA,White,Black,No accidents,1,Personal
+152,Ford Escape,2018,SE 4WD,"$11,999","123,233",Circleville, OH,Black,Black,No accidents,3,Fleet
+153,Ford Edge,2018,SEL AWD,"$19,995","95,132",West Seneca, NY,White,Black,1 accident,1,Personal
+154,Nissan Altima,2015,2.5 S,"$11,990","70,592",Blue Mound, TX,White,Black,No accidents,3,Personal
+155,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$38,996","11,215",Hicksville, OH,Black,Gray,No accidents,1,Personal
+156,Ford Edge,2020,SEL FWD,"$26,421","41,173",Columbus, TX,Black,Black,No accidents,2,Fleet
+157,Ford Super Duty F-350,2019,XL 4WD Crew Cab 6.75' Box SRW,"$39,900","93,746",Abilene, TX,White,Gray,1 accident,1,Personal
+158,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$36,999","29,990",Festus, MO,Black,Black,No accidents,1,Personal
+159,Nissan Rogue,2019,SV FWD,"$19,765","60,365",El Paso, TX,Black,Black,1 accident,2,Personal
+160,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$30,999","43,895",Phoenix, AZ,Silver,Gray,1 accident,1,Personal
+161,Toyota Corolla,2019,LE CVT,"$18,485","29,560",Pembroke Pines, FL,White,Gray,No accidents,1,Personal
+162,Ford F-150,2018,XL SuperCrew 5.5' Box 2WD,"$28,998","32,126",Puyallup, WA,Silver,Gray,No accidents,2,Personal
+163,Ford F-150,2018,Platinum SuperCrew 5.5' Box 4WD,"$46,451","32,560",Malvern, AR,Red,Black,No accidents,2,Personal
+164,Jeep Cherokee,2019,Limited 4WD,"$26,999","35,418",Brooklyn Center, MN,White,Black,No accidents,1,Personal
+165,Ford Super Duty F-250,2017,King Ranch Crew Cab 6.75' Bed 4WD,"$39,990","158,091",Weatherford, TX,Black,Brown,No accidents,2,Personal
+166,Ram 1500,2019,"Big Horn/Lone Star Crew Cab 5'7"" Box 4WD","$36,995","11,542",Sterling Heights, MI,Silver,Black,No accidents,1,Personal
+167,INFINITI QX60,2018,3.5 AWD,"$23,452","54,799",Freeport, NY,White,Gray,1 accident,1,Personal
+168,Ford Mustang,2014,V6 Coupe,"$17,655","34,684",Oakland, CA,White,Gray,No accidents,2,Personal
+169,Mercedes-Benz C-Class,2018,C 300 Sedan RWD,"$29,900","25,083",Roseville, CA,Gray,Unknown,No accidents,1,Personal
+170,Ford F-150,2018,XL SuperCab 6.5' Box 4WD,"$23,300","171,471",Middlesboro, KY,Black,Gray,No accidents,1,Personal
+171,Toyota Corolla,2019,LE CVT,"$18,990","22,021",Doral, FL,White,Unknown,No accidents,1,Personal
+172,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$32,880","64,299",Jacksonville, FL,Gray,Black,No accidents,2,Fleet
+173,Toyota Tacoma,2019,TRD Pro Double Cab 5' Bed V6 4WD Automatic,"$43,465","33,277",El Paso, TX,Gray,Unknown,No accidents,1,Personal
+174,Mercedes-Benz C-Class,2018,C 300 Sedan RWD,"$29,998","31,136",Santa Rosa, CA,White,Black,No accidents,1,Personal
+175,Toyota RAV4,2018,LE FWD,"$22,598","58,564",Texarkana, TX,Gray,Black,No accidents,1,Personal
+176,Mercedes-Benz C-Class,2018,C 300 Sedan RWD,"$30,991","27,085",San Jose, CA,White,Black,No accidents,1,Personal
+177,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$36,995","43,483",Burlington, WA,Red,Black,No accidents,1,Personal
+178,Ford Explorer,2018,XLT 4WD,"$29,695","37,756",Turnersville, NJ,Red,Black,No accidents,1,Personal
+179,Ford F-150,2019,XLT SuperCrew 5.5' Box 4WD,"$41,497","17,974",Kalamazoo, MI,White,Black,No accidents,2,Personal
+180,Chevrolet Silverado 1500 LD,2019,LT with 1LT Double Cab Standard Box 4WD,"$27,997","116,180",Caledonia, MI,White,Black,No accidents,1,Personal
+181,Ford F-150,2016,XLT SuperCrew 5.5' Box RWD,"$15,493","261,085",Swainsboro, GA,Silver,Gray,1 accident,2,Personal
+182,Toyota Corolla,2020,LE CVT,"$20,391","50,542",San Bernardino, CA,Black,Black,No accidents,2,Personal
+183,Ford F-150,2016,XLT SuperCrew 5.5' Box RWD,"$18,995","164,947",Austin, TX,White,Black,1 accident,1,Fleet
+184,Nissan Rogue,2018,SV AWD,"$23,588","23,724",Bronx, NY,Gray,Black,No accidents,1,Personal
+185,Toyota Corolla,2020,LE CVT,"$17,985","32,548",Duluth, GA,Gray,Gray,1 accident,1,Fleet
+186,Jeep Grand Cherokee,2018,Limited 4WD,"$29,991","47,001",Cortlandt Manor, NY,Black,Black,No accidents,1,Personal
+187,Ford F-150,2018,King Ranch SuperCrew 5.5' Box 4WD,"$43,850","44,350",Frankenmuth, MI,Black,Black,No accidents,Personal,Personal
+188,Kia Forte,2019,LXS IVT,"$12,995","147,271",Austin, TX,Gray,Black,No accidents,1,Personal
+189,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$39,271","25,518",Lowell, MA,Black,Gray,No accidents,1,Personal
+190,Ford Explorer,2018,XLT FWD,"$27,890","61,723",Waco, TX,White,Black,No accidents,1,Personal
+191,Ford Fusion,2014,SE FWD,"$9,999","109,000",Sacramento, CA,Black,Black,No accidents,1,Personal
+192,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$31,788","88,495",Midwest City, OK,White,Black,No accidents,2,Personal
+193,Ford F-150,2019,XL SuperCrew 5.5' Box 4WD,"$35,249","51,296",Morrison, TN,White,Gray,No accidents,1,Personal
+194,Ram 1500,2019,"Big Horn/Lone Star Crew Cab 5'7"" Box 4WD","$35,995","24,747",Sterling Heights, MI,Black,Black,1 accident,1,Personal
+195,Cadillac XT5,2018,FWD,"$20,231","103,401",Deland, FL,Black,Beige,No accidents,1,Personal
+196,Ford F-150,2019,XLT SuperCrew 5.5' Box 4WD,"$42,500","24,965",Shelbyville, TN,Black,Black,No accidents,1,Personal
+197,Toyota Corolla,2019,LE CVT,"$15,700","79,873",Houston, TX,Black,Black,1 accident,1,Personal
+198,Ford F-150,2018,XLT SuperCrew 5.5' Box 2WD,"$29,581","62,666",Vista, CA,Silver,Black,No accidents,2,Fleet
+199,Ford F-150,2018,XL SuperCrew 5.5' Box 2WD,"$27,995","84,101",Angleton, TX,White,Gray,No accidents,1,Personal
+200,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$30,189","88,746",Fargo, ND,Gray,Gray,No accidents,2,Personal
+201,Ford F-150,2019,XLT SuperCrew 5.5' Box 4WD,"$38,998","34,645",Vista, CA,White,Black,No accidents,2,Fleet
+202,Ram 1500,2019,"Big Horn/Lone Star Crew Cab 5'7"" Box 4WD","$33,200","96,154",Goshen, IN,Gray,Black,No accidents,1,Personal
+203,Toyota Camry,2018,XLE I4 Automatic,"$19,500","35,816",Staunton, VA,White,Beige,No accidents,2,Personal
+204,Ford F-150,2019,Lariat SuperCrew 5.5' Box 4WD,"$32,966","53,055",Arlington, VA,White,Black,No accidents,1,Personal
+205,Ford F-150,2020,XLT SuperCrew 5.5' Box 4WD,"$37,524","29,055",Vancouver, WA,Silver,Unknown,No accidents,1,Personal
+206,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$30,626","111,447",Gallatin, TN,White,Gray,No accidents,1,Personal
+207,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$29,995","102,764",Memphis, TN,White,Beige,No accidents,2,Personal
+208,Hyundai Elantra,2017,SE 2.0L Sedan Automatic (alt),"$9,685","103,171",Pompano Beach, FL,Gray,Gray,No accidents,4,Fleet
+209,Mercedes-Benz C-Class,2018,C 300 Sedan RWD,"$34,688","31,178",Temecula, CA,Black,Black,No accidents,1,Personal
+210,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$34,936","33,132",Memphis, TN,White,Unknown,No accidents,1,Personal
+211,Hyundai Elantra,2017,SE 2.0L Sedan Automatic (alt),"$9,999","78,265",Houston, TX,Silver,Gray,2 accidents,4,Personal
+212,Mercedes-Benz C-Class,2018,C 300 Sedan RWD,"$28,554","41,022",Pleasanton, CA,Blue,Gray,No accidents,2,Personal
+213,Chevrolet Equinox,2018,LT with 1LT FWD,"$16,995","91,596",Beaumont, TX,White,Black,No accidents,2,Personal
+214,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$35,875","35,284",Norwalk, OH,Black,Black,No accidents,1,Personal
+215,Nissan Versa,2019,SV Sedan CVT,"$12,995","47,725",Pompano Beach, FL,Black,Black,No accidents,2,Fleet
+216,Chevrolet Malibu,2020,LT,"$22,973","15,182",Bryan, TX,Silver,Black,No accidents,2,Personal
+217,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$35,992","37,624",Roswell, GA,Gray,Black,No accidents,1,Personal
+218,Mercedes-Benz C-Class,2018,C 300 Sedan RWD,"$31,388","41,665",San Diego, CA,Blue,Beige,No accidents,2,Personal
+219,Chevrolet Silverado 1500,2019,LT Crew Cab Short Box 2WD,"$29,989","102,529",Mobile, AL,Gray,Black,No accidents,1,Personal
+220,Ford F-150,2015,XLT SuperCrew 5.5' Box 4WD,"$21,421","144,737",Blackfoot, ID,White,Gray,No accidents,1,Personal
+221,Jeep Grand Cherokee,2018,Limited 4WD,"$29,995","51,518",Rockaway, NJ,White,Black,No accidents,3,Personal
+222,Chevrolet Malibu,2020,LT,"$21,874","12,618",Deland, FL,Gray,Black,No accidents,1,Personal
+223,Toyota Corolla,2020,LE CVT,"$18,295","55,280",Fort Myers, FL,Silver,Black,No accidents,1,Personal
+224,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$40,000","7,430",Roanoke, IL,White,Gray,No accidents,1,Personal
+225,Nissan Versa,2019,SV Sedan CVT,"$13,749","55,151",Bradenton, FL,Black,Black,No accidents,1,Fleet
+226,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$31,950","85,153",Butler, PA,White,Gray,No accidents,1,Personal
+227,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$34,499","50,337",Prescott, AZ,Black,Gray,No accidents,2,Personal
+228,Chevrolet Malibu,2018,LT with 1LT,"$19,998","34,739",Fresno, CA,White,Black,No accidents,1,Personal
+229,Kia Forte,2019,LXS IVT,"$17,347","32,303",Miami, FL,White,Black,No accidents,2,Personal
+230,Toyota RAV4,2018,XLE FWD,"$23,498","31,650",Miami, FL,Silver,Black,No accidents,1,Personal
+231,Chevrolet Silverado 1500,2018,LT Z71 Crew Cab Short Box 4WD,"$35,420","68,681",Alcoa, TN,White,Black,No accidents,1,Personal
+232,Ford Fusion,2014,SE FWD,"$9,493","100,512",Wickenburg, AZ,Gray,Black,No accidents,2,Personal
+233,Ford F-150,2017,XLT SuperCrew 5.5' Box 4WD,"$28,760","88,402",Hicksville, OH,White,Gray,No accidents,2,Fleet
+234,Ram 1500,2020,"Big Horn Crew Cab 5'7"" Box 4WD","$40,990","31,556",Lima, OH,Black,Black,No accidents,1,Personal
+235,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$36,745","63,785",Mount Juliet, TN,White,Black,No accidents,1,Personal
+236,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$37,821","40,018",Clinton, TN,White,Black,1 accident,2,Fleet
+237,Toyota Corolla,2020,LE CVT,"$19,999","70,396",Santa Maria, CA,White,Black,No accidents,1,Personal
+238,Ram 1500,2019,"Big Horn/Lone Star Crew Cab 5'7"" Box 4WD","$37,995","6,560",Sterling Heights, MI,Blue,Black,No accidents,2,Personal
+239,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$29,995","103,308",Madison, WI,White,Unknown,No accidents,1,Personal
+240,Nissan Altima,2019,SL FWD,"$18,383","54,275",Statesboro, GA,Black,Black,No accidents,2,Fleet
+241,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$35,900","35,939",Jackson, MI,Black,Black,No accidents,1,Personal
+242,Ford F-150,2018,Lariat SuperCrew 5.5' Box 4WD,"$41,000","20,983",Lexington Park, MD,Red,Black,No accidents,2,Personal
+243,Honda Civic,2018,LX Sedan CVT,"$19,500","26,093",Escondido, CA,White,Beige,No accidents,1,Personal
+244,Ford F-150,2016,XLT SuperCrew 5.5' Box 4WD,"$25,126","128,118",Columbus, OH,Black,Gray,No accidents,1,Personal
+245,Ford Fusion,2018,SE FWD,"$20,920","20,384",Washington, NC,White,Gray,No accidents,1,Personal
+246,Ford F-150,2020,XL SuperCrew 5.5' Box 2WD,"$35,573","20,487",Bryan, TX,White,Black,No accidents,1,Personal
+247,Ram 1500,2019,"Big Horn/Lone Star Crew Cab 5'7"" Box 4WD","$38,995","9,164",Sterling Heights, MI,Black,Black,No accidents,2,Personal
+248,Nissan Altima,2015,2.5 S,"$11,499","98,917",Sacramento, CA,Black,Black,No accidents,2,Fleet
+249,Ford F-150,2018,XL Regular Cab 6.5' Box 4WD,"$21,995","119,091",Colorado Springs, CO,White,Unknown,No accidents,1,Fleet
+250,Nissan Rogue,2018,SV AWD,"$19,490","36,361",Riverhead, NY,Gray,Black,No accidents,1,Personal
+251,Toyota Corolla,2020,LE CVT,"$19,681","42,480",Tampa, FL,Black,Black,No accidents,1,Personal
+252,Ford Explorer,2018,XLT FWD,"$21,337","92,814",Wesley Chapel, FL,Black,Black,No accidents,1,Personal
+253,Toyota Corolla,2020,LE CVT,"$20,995","3,929",Key West, FL,Blue,Black,No accidents,1,Personal
+254,Nissan Rogue,2018,SV AWD,"$24,995","13,877",Keyport, NJ,Silver,Black,No accidents,1,Personal
+255,Ford F-150,2019,XLT SuperCrew 5.5' Box 4WD,"$41,800","28,451",Pascagoula, MS,Silver,Unknown,No accidents,1,Personal
+256,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$34,988","66,276",Henderson, NV,Gray,Gray,No accidents,2,Personal
+257,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$37,556","34,751",Michigan Center, MI,Black,Gray,No accidents,Personal,Personal
+258,Ford Edge,2018,SEL AWD,"$24,874","16,897",Langhorne, PA,Gray,Black,No accidents,1,Personal
+259,Ford F-150,2019,XLT SuperCrew 5.5' Box 4WD,"$38,997","28,010",Hicksville, OH,Black,Black,No accidents,1,Personal
+260,Mercedes-Benz C-Class,2018,C 300 Sedan RWD,"$37,695","10,947",Tucson, AZ,White,Black,No accidents,1,Personal
+261,Dodge Grand Caravan,2019,SXT,"$18,999","81,805",Phoenix, AZ,Black,Black,No accidents,2,Personal
+262,Jeep Grand Cherokee,2018,Altitude 4WD,"$25,249","95,381",Temple, TX,Silver,Black,No accidents,1,Personal
+263,Mercedes-Benz C-Class,2018,C 300 Sedan RWD,"$33,408","17,535",Rocklin, CA,Silver,Black,No accidents,1,Personal
+264,Dodge Charger,2019,SXT RWD,"$29,981","33,615",Seguin, TX,Black,Black,No accidents,1,Personal
+265,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$38,995","18,497",Hicksville, OH,Gray,Black,No accidents,1,Personal
+266,Ram 1500,2019,"Big Horn/Lone Star Quad Cab 6'4"" Box 4WD","$26,995","147,983",Live Oak, FL,White,Black,No accidents,1,Personal
+267,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$35,995","69,387",Wake Forest, NC,White,Black,No accidents,1,Personal
+268,Ford F-150,2013,XLT SuperCrew 5.5' Box 4WD,"$10,490","237,403",Iowa City, IA,Black,Unknown,1 accident,3,Personal
+269,Ford F-150,2018,XLT SuperCrew 5.5' Box 4WD,"$28,885","74,371",Peabody, MA,Black,Gray,No accidents,2,Personal
+270,Toyota Camry,2018,XLE I4 Automatic,"$18,500","14,870",Houston, TX,Black,Unknown,1 accident,2,Personal
+271,Ram 1500,2020,"Big Horn Crew Cab 5'7"" Box 4WD","$41,999","19,918",Lima, OH,Black,Black,No accidents,Personal,Personal
+272,Toyota RAV4,2018,XLE FWD,"$20,990","30,984",Blue Mound, TX,Black,Black,No accidents,2,Fleet
