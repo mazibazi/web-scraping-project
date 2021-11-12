@@ -3,18 +3,25 @@ from sqlalchemy import create_engine
 
 user = 'root'
 password = input("PLease add password: ")
-hostName = 'localhost'  # either localhost or ip e.g. '172.17.0.2' or hostname address
+hostName = 'localhost'
 port = 3306
 database = 'truecar'
 
 connectionMySql = create_engine('mysql+pymysql://' + user + ':' + password + '@' +
                                 hostName + ':' + str(port) + '/' + database, echo=False)
 
+
+
+
 df = pd.read_csv('./carReportedFinal.csv')
 
 print(df.columns)
 
 
+
+
+#Preparing query to create a database
+sql = "CREATE database MYDATABASE";
 
 try:
     df.to_sql(name='cardetail', con=connectionMySql, if_exists='replace', index=False)
